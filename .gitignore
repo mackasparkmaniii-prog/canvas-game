@@ -1,0 +1,8 @@
+# OS / system junk
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs
+*.log
