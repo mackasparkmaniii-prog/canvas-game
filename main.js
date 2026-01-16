@@ -7,7 +7,7 @@ import { BootScene } from "./src/scenes/bootScene.js";
 import { MenuScene } from "./src/scenes/menuScene.js";
 
 // NEW: Connect 5
-import { Connect5Scene } from "./src/scenes/connect5/connect5Scene.js";
+import { Connect5Scene } from "./src/games/connect5/connect5Scene.js";
 
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
